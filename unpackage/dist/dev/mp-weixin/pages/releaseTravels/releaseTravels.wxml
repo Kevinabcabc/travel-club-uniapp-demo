@@ -1,0 +1,1 @@
+<view class="releaseTravels"><view data-event-opts="{{[['tap',[['pushAction',['$event']]]]]}}" class="newTravelBox" bindtap="__e"><image src="../../static/plane.svg" mode></image><view>发布一条旅行</view></view></view>

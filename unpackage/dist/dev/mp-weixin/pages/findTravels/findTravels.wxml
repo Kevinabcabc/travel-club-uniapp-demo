@@ -1,0 +1,1 @@
+<view class="findTravels"><travel-info vue-id="1" datad="{{datad}}" bind:__l="__l"></travel-info></view>

@@ -1,0 +1,50 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"minified": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.9.2",
+	"appid": "wxfb6b5c03a77d24d0",
+	"projectname": "travelCLUB",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/newTravel/newTravel",
+					"pathName": "pages/newTravel/newTravel",
+					"scene": null
+				}
+			]
+		}
+	}
+}

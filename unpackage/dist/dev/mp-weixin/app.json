@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/findTravels/findTravels",
+    "pages/releaseTravels/releaseTravels",
+    "pages/home/home",
+    "pages/newTravel/newTravel"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/findTravels/findTravels",
+        "iconPath": "./static/bar/find.png",
+        "selectedIconPath": "./static/bar/find-c.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/releaseTravels/releaseTravels",
+        "iconPath": "./static/bar/release.png",
+        "selectedIconPath": "./static/bar/release-c.png",
+        "text": "发布"
+      },
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "./static/bar/message.png",
+        "selectedIconPath": "./static/bar/message-c.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap87.json"
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "发现旅行",
+  "usingComponents": {
+    "travel-info": "/components/travelInfo/travelInfo"
+  }
+}
